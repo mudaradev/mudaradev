@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudaradev" alt="mudaradev" /></a> </p>
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw1bAMZKyZ5WhbbgtlUjnOqS&ust=1738058984432000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIihn7PUlYsDFQAAAAAdAAAAABAq">
+<img src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 - 💬 Ask me about **React,HTML,CSS,C++,JAVA,C**
 
 - 📫 How to reach me **mudaradevindi@gmail.com**
