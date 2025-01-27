@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudaradev" alt="mudaradev" /></a> </p>
 
-<img scr = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9&psig=AOvVaw1bAMZKyZ5WhbbgtlUjnOqS&ust=1738058984432000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIihn7PUlYsDFQAAAAAdAAAAABAi">
-
+<img src = "https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9528kdeovhy77arcw2njgnkg762o2msc0bcc43yymdh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 - 💬 Ask me about **React,HTML,CSS,C++,JAVA,C**
 
 - 📫 How to reach me **mudaradevindi@gmail.com**
