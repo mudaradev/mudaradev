@@ -112,6 +112,7 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 
 I'm always open to discussing new opportunities, collaborating on interesting projects, or simply connecting with fellow developers. Feel free to reach out!
 
+- 🌐 **Portfolio**: [mudaradev.github.io](https://mudaradev.github.io/)
 - 💼 **LinkedIn**: [Mudara Balasooriya](https://linkedin.com/in/mudara-balasooriya)
 - 📧 **Email**: mudaradevindi@gmail.com
 - 📱 **Instagram**: [@mu_da_ra](https://instagram.com/mu_da_ra)
