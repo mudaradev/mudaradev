@@ -5,9 +5,9 @@
 🎓 Electronics & Computer Science Undergraduate | Passionate about Web & Embedded Systems
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudara-balasooriya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](mailto:mudaradevindi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mu_da_ra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mudara-balasooriya](https://www.linkedin.com/in/mudara-balasooriya-b974ab240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3niRyZhLTzqLZlOTVJZmFQ%3D%3D))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([mailto:mudaradevindi@gmail.com](https://mudaradev.github.io/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/mu_da_ra](https://www.instagram.com/mu_da_ra/profilecard/?igsh=ZjEzZHZjNm16dm85))
 
 ---
 
