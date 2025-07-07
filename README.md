@@ -1,6 +1,9 @@
 # Mudara Balasooriya
 
-**Full Stack Developer | UI/UX Designer | Software Engineer**
+**Full Stack Developer | UI/UX Designer | PCB Designer**
+
+🎓 Electronics & Computer Science Undergraduate | Passionate about Web & Embedded Systems
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudara-balasooriya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](mailto:mudaradevindi@gmail.com)
