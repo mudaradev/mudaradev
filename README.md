@@ -93,21 +93,17 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 
 ## 🎯 What I'm Working On
 
-- Building scalable web applications with React and Next.js
-- Developing cross-platform mobile applications with Flutter
-- Exploring cloud architecture and DevOps practices
-- Contributing to open-source projects
-- Continuous learning and skill development
+-Building web applications with React, Next.js, and Node.js
+
+-Developing cross-platform mobile apps using Flutter
+
+-Exploring cloud computing, AI, and machine learning
+
+-Designing embedded systems, circuits, and PCBs
+
+-Contributing to open-source projects and expanding my full-stack development skills
 
 ---
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudaradev&theme=dracula&hide_border=true" alt="mudaradev" />
-</div>
-
 
 ## 🤝 Let's Connect
 
@@ -124,5 +120,3 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 </div>
 
 ---
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
