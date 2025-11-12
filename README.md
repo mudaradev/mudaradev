@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mudara Balasooriya  
 
-**Full Stack Developer | UI/UX Designer | PCB Designer | Cybersecurity Enthusiast**  
+**Full Stack Developer | UI/UX Designer | Cybersecurity Enthusiast**  
 
 🎓 *Electronics & Computer Science Undergraduate*  
 💡 *Passionate about Web, Embedded Systems, and Cybersecurity*  
